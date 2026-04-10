@@ -56,9 +56,14 @@ End-to-end solo production: custom 3D modeling in Blender, rigging, and optimize
 
 ---
 
-## Currently Building
+## Currently Building - XR-Fire-Safety-Training-Simulator
 
-A standalone VR prototype demonstrating modular architecture and optimized interaction systems from scratch — designed specifically to validate ECS/DOTS decisions under real profiling conditions.
+A standalone VR project demonstrating modular architecture and optimized interaction systems from scratch — designed specifically to validate ECS/DOTS decisions under real profiling conditions.
+
+### 🛠️ Current Project: XR-Fire-Safety-Training-Simulator
+This project is currently under active development. While the repository is set to private during the initial build phase, I am happy to share access with recruiters or engineering managers for code review.
+
+**Access Request:** Please [DM me on LinkedIn- Link is above] - to request collaborator access. I typically respond and grant access within 24 hours.
 
 ---
 
