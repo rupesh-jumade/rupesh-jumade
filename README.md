@@ -1,6 +1,6 @@
 # Rupesh Jumade
 
-**Platform / Cloud / DevOps / SRE** · AWS · Kubernetes · Docker · Terraform · GitHub Actions · Prometheus · Grafana · Hyderabad, India
+**Platform / Cloud / DevOps / SRE** · AWS · Kubernetes · Docker · Terraform · GitHub Actions · Prometheus · Grafana · Pune, India
 
 [LinkedIn](https://www.linkedin.com/in/rupesh-jumde-58677b145) · [GitHub](https://github.com/rupesh-jumade) · rupeshjumde9@gmail.com
 
